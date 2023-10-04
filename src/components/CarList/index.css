@@ -1,0 +1,128 @@
+.car-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.car-card {
+  flex-basis: calc(33.33% - 50px);
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.ima {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.na {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.cap-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.cap-cont i {
+  margin-right: 5px;
+  font-size: 1rem;
+}
+
+.cap-cont p5 {
+  font-size: 1rem;
+}
+
+p1 {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+hr {
+  margin-top: 10px;
+}
+.cap {
+  color: blue;
+  margin-left: -90px;
+}
+.p-cap {
+  margin-left: 10px;
+}
+.f-cap {
+  margin-left: 55px;
+  margin-top: 10px;
+}
+.pp {
+  margin-left: 10px;
+}
+
+.pp-2 {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.capa {
+  margin-left: -150px;
+}
+.pp-cap {
+  margin-left: -76px;
+  margin-top: 10px;
+}
+.p-capp {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.str {
+  width: 15px;
+  margin-left: 45px;
+  margin-top: 10px;
+}
+.pr {
+  margin-left: -90px;
+  font-size: 20px;
+}
+.sp {
+  font-size: 15px;
+}
+.lo {
+  background-color: #8db3c2;
+  border: 0px solid lightgrey;
+  border-radius: 8px;
+  width: 8%;
+  height: 28px;
+  padding: auto;
+  margin-left: 90px;
+  margin-top: 15px;
+}
+.bt {
+  background-color: #007bff;
+  color: white;
+  padding: 5px;
+  margin-left: 15px;
+  border: 0px solid lightgray;
+  border-radius: 7px;
+  width: 100px;
+  height: 30px;
+  margin-right: -80px;
+}
+.b {
+  margin-top: -33px;
+  margin-left: 170px;
+}
+.btn-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bt-y {
+  border-style: dotted;
+  border-color: #289cc9;
+  padding: 5px;
+  color: black;
+  height: 30px;
+}
