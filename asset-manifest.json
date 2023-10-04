@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Stazi-Technologies-Assignment/static/css/main.84126b05.css",
+    "main.js": "/Stazi-Technologies-Assignment/static/js/main.50de7bf7.js",
+    "static/js/787.d3befce1.chunk.js": "/Stazi-Technologies-Assignment/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Stazi-Technologies-Assignment/index.html",
+    "static/media/people.svg": "/Stazi-Technologies-Assignment/static/media/people.4e42aa5322423548378f76862d45581b.svg",
+    "static/media/fuel-pump.svg": "/Stazi-Technologies-Assignment/static/media/fuel-pump.466ba40952976f203c09009ccca7fb1a.svg",
+    "static/media/heart.svg": "/Stazi-Technologies-Assignment/static/media/heart.a97ffb00dd4b7009c9b1bd78c1b63ec2.svg",
+    "static/media/clock.svg": "/Stazi-Technologies-Assignment/static/media/clock.cfeed7a6414b16bcde53b183176b1c89.svg",
+    "main.84126b05.css.map": "/Stazi-Technologies-Assignment/static/css/main.84126b05.css.map",
+    "main.50de7bf7.js.map": "/Stazi-Technologies-Assignment/static/js/main.50de7bf7.js.map",
+    "787.d3befce1.chunk.js.map": "/Stazi-Technologies-Assignment/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84126b05.css",
+    "static/js/main.50de7bf7.js"
+  ]
+}
